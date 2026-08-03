@@ -21,6 +21,24 @@
 		<Length>12</Length>
 	</Ad>
 	<Ad>
+		<Id>8165220445</Id>
+		<AvitoId>8165220445</AvitoId>
+		<Category>Ремонт и строительство</Category>
+		<Address>Краснодар</Address>
+		<Title>Сетка сварная 4 мм 100х100 для бетона и стяжки</Title>
+		<Description>Сетка сварная 4 мм 100х100 для бетона и стяжки. В наличии на складе Березовый, Краснодар.</Description>
+		<Price>789</Price>
+		<Condition>Новое</Condition>
+		<GoodsType>Стройматериалы</GoodsType>
+		<MinSaleQuantity>1</MinSaleQuantity>
+		<PriceFor>штуку</PriceFor>
+		<GoodsSubType>Металлопрокат</GoodsSubType>
+		<MaterialType>Сетка</MaterialType>
+		<Material>Сталь</Material>
+		<Width>2</Width>
+		<Length>3</Length>
+	</Ad>
+	<Ad>
 		<Id>8133857245</Id>
 		<AvitoId>8133857245</AvitoId>
 		<Category>Ремонт и строительство</Category>
@@ -161,6 +179,27 @@
 		<MeterWeight>9.02</MeterWeight>
 	</Ad>
 	<Ad>
+		<Id>8133558957</Id>
+		<AvitoId>8133558957</AvitoId>
+		<Category>Ремонт и строительство</Category>
+		<Address>Краснодар</Address>
+		<Title>Арматура 12 А500С в наличии в Краснодаре</Title>
+		<Description>Арматура 12 А500С в наличии в Краснодаре. В наличии на складе Березовый, Краснодар.</Description>
+		<Price>75</Price>
+		<Condition>Новое</Condition>
+		<GoodsType>Стройматериалы</GoodsType>
+		<MinSaleQuantity>1</MinSaleQuantity>
+		<PriceFor>метр</PriceFor>
+		<GoodsSubType>Металлопрокат</GoodsSubType>
+		<MaterialType>Сортовой прокат</MaterialType>
+		<MaterialSubType>Арматура</MaterialSubType>
+		<Material>Сталь</Material>
+		<Diameter>12 мм</Diameter>
+		<RebarStrengthGrade>АIII</RebarStrengthGrade>
+		<RodLength>11.7</RodLength>
+		<MeterWeight>0.91</MeterWeight>
+	</Ad>
+	<Ad>
 		<Id>8133552641</Id>
 		<AvitoId>8133552641</AvitoId>
 		<Category>Ремонт и строительство</Category>
@@ -199,6 +238,27 @@
 		<Size>50x30</Size>
 		<Length>6</Length>
 		<MeterWeight>2.31</MeterWeight>
+	</Ad>
+	<Ad>
+		<Id>8133401749</Id>
+		<AvitoId>8133401749</AvitoId>
+		<Category>Ремонт и строительство</Category>
+		<Address>Краснодар</Address>
+		<Title>Арматура 10 А3 / А500с фундаментов и монолита</Title>
+		<Description>Арматура 10 А3 / А500с фундаментов и монолита. В наличии на складе Березовый, Краснодар.</Description>
+		<Price>56</Price>
+		<Condition>Новое</Condition>
+		<GoodsType>Стройматериалы</GoodsType>
+		<MinSaleQuantity>1</MinSaleQuantity>
+		<PriceFor>метр</PriceFor>
+		<GoodsSubType>Металлопрокат</GoodsSubType>
+		<MaterialType>Сортовой прокат</MaterialType>
+		<MaterialSubType>Арматура</MaterialSubType>
+		<Material>Сталь</Material>
+		<Diameter>10 мм</Diameter>
+		<RebarStrengthGrade>АIII</RebarStrengthGrade>
+		<RodLength>11.7</RodLength>
+		<MeterWeight>0.627</MeterWeight>
 	</Ad>
 	<Ad>
 		<Id>8133334943</Id>
