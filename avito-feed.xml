@@ -1,2 +1,360 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<Ads formatVersion="3" target="Avito.ru"><test/></Ads>
+<Ads formatVersion="3" target="Avito.ru">
+	<Ad>
+		<Id>8261002860</Id>
+		<AvitoId>8261002860</AvitoId>
+		<Category>Ремонт и строительство</Category>
+		<Address>Краснодар</Address>
+		<Title>Уголок стальной горячекатаный 100х100х7 мм</Title>
+		<Description>Уголок стальной горячекатаный 100х100х7 мм. В наличии на складе Березовый, Краснодар.</Description>
+		<Images></Images>
+		<Price>952</Price>
+		<Condition>Новое</Condition>
+		<GoodsType>Стройматериалы</GoodsType>
+		<MinSaleQuantity>1</MinSaleQuantity>
+		<PriceFor>метр</PriceFor>
+		<GoodsSubType>Металлопрокат</GoodsSubType>
+		<MaterialType>Фасонный прокат</MaterialType>
+		<MaterialSubType>Уголок</MaterialSubType>
+		<Material>Сталь</Material>
+		<ShelfWidth>100 мм</ShelfWidth>
+		<Thickness>7 мм</Thickness>
+		<Length>12</Length>
+	</Ad>
+	<Ad>
+		<Id>8133857245</Id>
+		<AvitoId>8133857245</AvitoId>
+		<Category>Ремонт и строительство</Category>
+		<Address>Краснодар</Address>
+		<Title>Труба 60х40х2 для навесов и каркасов</Title>
+		<Description>Труба 60х40х2 для навесов и каркасов. В наличии на складе Березовый, Краснодар.</Description>
+		<Images></Images>
+		<Price>208</Price>
+		<Condition>Новое</Condition>
+		<GoodsType>Стройматериалы</GoodsType>
+		<MinSaleQuantity>1</MinSaleQuantity>
+		<PriceFor>метр</PriceFor>
+		<GoodsSubType>Металлопрокат</GoodsSubType>
+		<MaterialType>Трубный прокат</MaterialType>
+		<PipeRollingType>Прямоугольная труба</PipeRollingType>
+		<PipeWallThickness>2 мм</PipeWallThickness>
+		<Size>60x40</Size>
+		<Length>6</Length>
+		<MeterWeight>3.59</MeterWeight>
+	</Ad>
+	<Ad>
+		<Id>8133845477</Id>
+		<AvitoId>8133845477</AvitoId>
+		<Category>Ремонт и строительство</Category>
+		<Address>Краснодар</Address>
+		<Title>Труба профильная 80х40х2</Title>
+		<Description>Труба профильная 80х40х2. В наличии на складе Березовый, Краснодар.</Description>
+		<Images></Images>
+		<Price>269</Price>
+		<Condition>Новое</Condition>
+		<GoodsType>Стройматериалы</GoodsType>
+		<MinSaleQuantity>1</MinSaleQuantity>
+		<PriceFor>метр</PriceFor>
+		<GoodsSubType>Металлопрокат</GoodsSubType>
+		<MaterialType>Трубный прокат</MaterialType>
+		<PipeRollingType>Прямоугольная труба</PipeRollingType>
+		<PipeWallThickness>2 мм</PipeWallThickness>
+		<Size>80x40</Size>
+		<Length>6</Length>
+		<MeterWeight>3.59</MeterWeight>
+	</Ad>
+	<Ad>
+		<Id>8133757559</Id>
+		<AvitoId>8133757559</AvitoId>
+		<Category>Ремонт и строительство</Category>
+		<Address>Краснодар</Address>
+		<Title>Труба профильная 60х40х3 для навеса</Title>
+		<Description>Труба профильная 60х40х3 для навеса. В наличии на складе Березовый, Краснодар.</Description>
+		<Images></Images>
+		<Price>303</Price>
+		<Condition>Новое</Condition>
+		<GoodsType>Стройматериалы</GoodsType>
+		<MinSaleQuantity>1</MinSaleQuantity>
+		<PriceFor>метр</PriceFor>
+		<GoodsSubType>Металлопрокат</GoodsSubType>
+		<MaterialType>Трубный прокат</MaterialType>
+		<PipeRollingType>Прямоугольная труба</PipeRollingType>
+		<PipeWallThickness>3 мм</PipeWallThickness>
+		<Size>60x40</Size>
+		<Length>6</Length>
+		<MeterWeight>4.3</MeterWeight>
+	</Ad>
+	<Ad>
+		<Id>8133713110</Id>
+		<AvitoId>8133713110</AvitoId>
+		<Category>Ремонт и строительство</Category>
+		<Address>Краснодар</Address>
+		<Title>Труба профильная 100х50х3 для навесов с доставкой</Title>
+		<Description>Труба профильная 100х50х3 для навесов с доставкой. В наличии на складе Березовый, Краснодар.</Description>
+		<Images></Images>
+		<Price>473</Price>
+		<Condition>Новое</Condition>
+		<GoodsType>Стройматериалы</GoodsType>
+		<MinSaleQuantity>1</MinSaleQuantity>
+		<PriceFor>метр</PriceFor>
+		<GoodsSubType>Металлопрокат</GoodsSubType>
+		<MaterialType>Трубный прокат</MaterialType>
+		<PipeRollingType>Прямоугольная труба</PipeRollingType>
+		<PipeWallThickness>3 мм</PipeWallThickness>
+		<Size>100x50</Size>
+		<Length>12</Length>
+		<MeterWeight>6.66</MeterWeight>
+	</Ad>
+	<Ad>
+		<Id>8133673398</Id>
+		<AvitoId>8133673398</AvitoId>
+		<Category>Ремонт и строительство</Category>
+		<Address>Краснодар</Address>
+		<Title>Труба профильная 60х60х3 для забора - навеса</Title>
+		<Description>Труба профильная 60х60х3 для забора - навеса. В наличии на складе Березовый, Краснодар.</Description>
+		<Images></Images>
+		<Price>348</Price>
+		<Condition>Новое</Condition>
+		<GoodsType>Стройматериалы</GoodsType>
+		<MinSaleQuantity>1</MinSaleQuantity>
+		<PriceFor>метр</PriceFor>
+		<GoodsSubType>Металлопрокат</GoodsSubType>
+		<MaterialType>Трубный прокат</MaterialType>
+		<PipeRollingType>Прямоугольная труба</PipeRollingType>
+		<PipeWallThickness>3 мм</PipeWallThickness>
+		<Size>60x60</Size>
+		<Length>6</Length>
+		<MeterWeight>5.25</MeterWeight>
+	</Ad>
+	<Ad>
+		<Id>8133665587</Id>
+		<AvitoId>8133665587</AvitoId>
+		<Category>Ремонт и строительство</Category>
+		<Address>Краснодар</Address>
+		<Title>Труба 40х20х1,5 склад Краснодар</Title>
+		<Description>Труба 40х20х1,5 склад Краснодар. В наличии на складе Березовый, Краснодар.</Description>
+		<Images></Images>
+		<Price>109</Price>
+		<Condition>Новое</Condition>
+		<GoodsType>Стройматериалы</GoodsType>
+		<MinSaleQuantity>1</MinSaleQuantity>
+		<PriceFor>метр</PriceFor>
+		<GoodsSubType>Металлопрокат</GoodsSubType>
+		<MaterialType>Трубный прокат</MaterialType>
+		<PipeRollingType>Прямоугольная труба</PipeRollingType>
+		<PipeWallThickness>1.5 мм</PipeWallThickness>
+		<Size>40x20</Size>
+		<Length>6</Length>
+		<MeterWeight>1.31</MeterWeight>
+	</Ad>
+	<Ad>
+		<Id>8133608445</Id>
+		<AvitoId>8133608445</AvitoId>
+		<Category>Ремонт и строительство</Category>
+		<Address>Краснодар</Address>
+		<Title>Труба профильная 100х100х3</Title>
+		<Description>Труба профильная 100х100х3. В наличии на складе Березовый, Краснодар.</Description>
+		<Images></Images>
+		<Price>608</Price>
+		<Condition>Новое</Condition>
+		<GoodsType>Стройматериалы</GoodsType>
+		<MinSaleQuantity>1</MinSaleQuantity>
+		<PriceFor>метр</PriceFor>
+		<GoodsSubType>Металлопрокат</GoodsSubType>
+		<MaterialType>Трубный прокат</MaterialType>
+		<PipeRollingType>Прямоугольная труба</PipeRollingType>
+		<PipeWallThickness>3 мм</PipeWallThickness>
+		<Size>100x100</Size>
+		<Length>12</Length>
+		<MeterWeight>9.02</MeterWeight>
+	</Ad>
+	<Ad>
+		<Id>8133552641</Id>
+		<AvitoId>8133552641</AvitoId>
+		<Category>Ремонт и строительство</Category>
+		<Address>Краснодар</Address>
+		<Title>Труба профильная 40х20х2 — опт и розница</Title>
+		<Description>Труба профильная 40х20х2 — опт и розница. В наличии на складе Березовый, Краснодар.</Description>
+		<Images></Images>
+		<Price>119</Price>
+		<Condition>Новое</Condition>
+		<GoodsType>Стройматериалы</GoodsType>
+		<MinSaleQuantity>1</MinSaleQuantity>
+		<PriceFor>метр</PriceFor>
+		<GoodsSubType>Металлопрокат</GoodsSubType>
+		<MaterialType>Трубный прокат</MaterialType>
+		<PipeRollingType>Прямоугольная труба</PipeRollingType>
+		<PipeWallThickness>2 мм</PipeWallThickness>
+		<Size>40x20</Size>
+		<Length>6</Length>
+		<MeterWeight>1.7</MeterWeight>
+	</Ad>
+	<Ad>
+		<Id>8133429273</Id>
+		<AvitoId>8133429273</AvitoId>
+		<Category>Ремонт и строительство</Category>
+		<Address>Краснодар</Address>
+		<Title>Труба профильная 50х30х2 купить с доставкой</Title>
+		<Description>Труба профильная 50х30х2 купить с доставкой. В наличии на складе Березовый, Краснодар.</Description>
+		<Images></Images>
+		<Price>184</Price>
+		<Condition>Новое</Condition>
+		<GoodsType>Стройматериалы</GoodsType>
+		<MinSaleQuantity>1</MinSaleQuantity>
+		<PriceFor>метр</PriceFor>
+		<GoodsSubType>Металлопрокат</GoodsSubType>
+		<MaterialType>Трубный прокат</MaterialType>
+		<PipeRollingType>Прямоугольная труба</PipeRollingType>
+		<PipeWallThickness>2 мм</PipeWallThickness>
+		<Size>50x30</Size>
+		<Length>6</Length>
+		<MeterWeight>2.31</MeterWeight>
+	</Ad>
+	<Ad>
+		<Id>8133334943</Id>
+		<AvitoId>8133334943</AvitoId>
+		<Category>Ремонт и строительство</Category>
+		<Address>Краснодар</Address>
+		<Title>Труба профильная 40х20х3 для навеса</Title>
+		<Description>Труба профильная 40х20х3 для навеса. В наличии на складе Березовый, Краснодар.</Description>
+		<Images></Images>
+		<Price>181</Price>
+		<Condition>Новое</Condition>
+		<GoodsType>Стройматериалы</GoodsType>
+		<MinSaleQuantity>1</MinSaleQuantity>
+		<PriceFor>метр</PriceFor>
+		<GoodsSubType>Металлопрокат</GoodsSubType>
+		<MaterialType>Трубный прокат</MaterialType>
+		<PipeRollingType>Прямоугольная труба</PipeRollingType>
+		<PipeWallThickness>3 мм</PipeWallThickness>
+		<Size>40x20</Size>
+		<Length>6</Length>
+		<MeterWeight>2.42</MeterWeight>
+	</Ad>
+	<Ad>
+		<Id>8133303676</Id>
+		<AvitoId>8133303676</AvitoId>
+		<Category>Ремонт и строительство</Category>
+		<Address>Краснодар</Address>
+		<Title>Профильная труба 20х20х2</Title>
+		<Description>Профильная труба 20х20х2. В наличии на складе Березовый, Краснодар.</Description>
+		<Images></Images>
+		<Price>79</Price>
+		<Condition>Новое</Condition>
+		<GoodsType>Стройматериалы</GoodsType>
+		<MinSaleQuantity>1</MinSaleQuantity>
+		<PriceFor>метр</PriceFor>
+		<GoodsSubType>Металлопрокат</GoodsSubType>
+		<MaterialType>Трубный прокат</MaterialType>
+		<PipeRollingType>Прямоугольная труба</PipeRollingType>
+		<PipeWallThickness>2 мм</PipeWallThickness>
+		<Size>20x20</Size>
+		<Length>6</Length>
+		<MeterWeight>1.075</MeterWeight>
+	</Ad>
+	<Ad>
+		<Id>8133217650</Id>
+		<AvitoId>8133217650</AvitoId>
+		<Category>Ремонт и строительство</Category>
+		<Address>Краснодар</Address>
+		<Title>Профтруба труба 60х60х2 для навеса и ворот</Title>
+		<Description>Профтруба труба 60х60х2 для навеса и ворот. В наличии на складе Березовый, Краснодар.</Description>
+		<Images></Images>
+		<Price>253</Price>
+		<Condition>Новое</Condition>
+		<GoodsType>Стройматериалы</GoodsType>
+		<MinSaleQuantity>1</MinSaleQuantity>
+		<PriceFor>метр</PriceFor>
+		<GoodsSubType>Металлопрокат</GoodsSubType>
+		<MaterialType>Трубный прокат</MaterialType>
+		<PipeRollingType>Прямоугольная труба</PipeRollingType>
+		<PipeWallThickness>2 мм</PipeWallThickness>
+		<Size>60x60</Size>
+		<Length>6</Length>
+		<MeterWeight>3.59</MeterWeight>
+	</Ad>
+	<Ad>
+		<Id>8133151122</Id>
+		<AvitoId>8133151122</AvitoId>
+		<Category>Ремонт и строительство</Category>
+		<Address>Краснодар</Address>
+		<Title>Профильная труба 30х20х2 купить с доставкой</Title>
+		<Description>Профильная труба 30х20х2 купить с доставкой. В наличии на складе Березовый, Краснодар.</Description>
+		<Images></Images>
+		<Price>105</Price>
+		<Condition>Новое</Condition>
+		<GoodsType>Стройматериалы</GoodsType>
+		<MinSaleQuantity>1</MinSaleQuantity>
+		<PriceFor>метр</PriceFor>
+		<GoodsSubType>Металлопрокат</GoodsSubType>
+		<MaterialType>Трубный прокат</MaterialType>
+		<PipeRollingType>Прямоугольная труба</PipeRollingType>
+		<PipeWallThickness>2 мм</PipeWallThickness>
+		<Size>30x20</Size>
+		<Length>6</Length>
+		<MeterWeight>1.39</MeterWeight>
+	</Ad>
+	<Ad>
+		<Id>8133129792</Id>
+		<AvitoId>8133129792</AvitoId>
+		<Category>Ремонт и строительство</Category>
+		<Address>Краснодар</Address>
+		<Title>Труба профильная 50х50х3 столбы для забора</Title>
+		<Description>Труба профильная 50х50х3 столбы для забора. В наличии на складе Березовый, Краснодар.</Description>
+		<Images></Images>
+		<Price>285</Price>
+		<Condition>Новое</Condition>
+		<GoodsType>Стройматериалы</GoodsType>
+		<MinSaleQuantity>1</MinSaleQuantity>
+		<PriceFor>метр</PriceFor>
+		<GoodsSubType>Металлопрокат</GoodsSubType>
+		<MaterialType>Трубный прокат</MaterialType>
+		<PipeRollingType>Прямоугольная труба</PipeRollingType>
+		<PipeWallThickness>3 мм</PipeWallThickness>
+		<Size>50x50</Size>
+		<Length>6</Length>
+		<MeterWeight>4.31</MeterWeight>
+	</Ad>
+	<Ad>
+		<Id>8133069091</Id>
+		<AvitoId>8133069091</AvitoId>
+		<Category>Ремонт и строительство</Category>
+		<Address>Краснодар</Address>
+		<Title>Труба профильная 40х40х2 купить с доставкой</Title>
+		<Description>Труба профильная 40х40х2 купить с доставкой. В наличии на складе Березовый, Краснодар.</Description>
+		<Images></Images>
+		<Price>159</Price>
+		<Condition>Новое</Condition>
+		<GoodsType>Стройматериалы</GoodsType>
+		<MinSaleQuantity>1</MinSaleQuantity>
+		<PriceFor>метр</PriceFor>
+		<GoodsSubType>Металлопрокат</GoodsSubType>
+		<MaterialType>Трубный прокат</MaterialType>
+		<PipeRollingType>Прямоугольная труба</PipeRollingType>
+		<PipeWallThickness>2 мм</PipeWallThickness>
+		<Size>40x40</Size>
+		<Length>6</Length>
+		<MeterWeight>2.33</MeterWeight>
+	</Ad>
+	<Ad>
+		<Id>8133043453</Id>
+		<AvitoId>8133043453</AvitoId>
+		<Category>Ремонт и строительство</Category>
+		<Address>Краснодар</Address>
+		<Title>Профтруба 80х80х3 — резка и доставка</Title>
+		<Description>Профтруба 80х80х3 — резка и доставка. В наличии на складе Березовый, Краснодар.</Description>
+		<Images></Images>
+		<Price>466</Price>
+		<Condition>Новое</Condition>
+		<GoodsType>Стройматериалы</GoodsType>
+		<MinSaleQuantity>1</MinSaleQuantity>
+		<PriceFor>метр</PriceFor>
+		<GoodsSubType>Металлопрокат</GoodsSubType>
+		<MaterialType>Трубный прокат</MaterialType>
+		<PipeRollingType>Прямоугольная труба</PipeRollingType>
+		<PipeWallThickness>3 мм</PipeWallThickness>
+		<Size>80x80</Size>
+		<Length>6</Length>
+		<MeterWeight>7.13</MeterWeight>
+	</Ad>
+</Ads>
