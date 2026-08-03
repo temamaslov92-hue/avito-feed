@@ -17,10 +17,10 @@
 		<PriceFor>метр</PriceFor>
 		<GoodsSubType>Металлопрокат</GoodsSubType>
 		<MaterialType>Фасонный прокат</MaterialType>
-		<MaterialSubType>Уголок</MaterialSubType>
+		<MaterialSubType>Уголки</MaterialSubType>
 		<Material>Сталь</Material>
-		<ShelfWidth>100 мм</ShelfWidth>
-		<Thickness>7 мм</Thickness>
+		<ShelfWidth>100</ShelfWidth>
+		<Thickness>7</Thickness>
 		<Length>12</Length>
 	</Ad>
 	<Ad>
